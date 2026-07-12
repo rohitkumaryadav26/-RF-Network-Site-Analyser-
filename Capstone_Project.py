@@ -3,7 +3,7 @@ import math
 import numpy as np
 import matplotlib.pyplot as plt
 
-#The Data of different Sites
+#The data of different Sites
 network_sites = [
     {
         'site_id'      : 'BLR_001',
