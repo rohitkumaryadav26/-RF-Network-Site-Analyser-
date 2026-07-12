@@ -21,8 +21,8 @@ Coverage Curve Analysis, Drive Test Data Processing
 | CHN_004  | Chennai    | Jio      | 2600 MHz  | Good      |
  
 ## Project output 
-![RSRP Comparison](site_rsrp_comparison.png) 
-![Coverage Curves](coverage_curves_all_sites.png)
+![RSRP Comparison](Site_RSRP_Comparison.png) 
+![Coverage Curves](Coverage_Curves_All_Sites.png)
 
 ## Key Finding
 DEL_003 (Delhi) has 80% poor readings — site flagged for
